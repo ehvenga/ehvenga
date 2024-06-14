@@ -23,6 +23,7 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><br/><small>CSS</small>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Front End</b></td>
@@ -82,6 +83,7 @@
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/><br/><small>Firebase</small>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td><b>DevOps</b></td>
@@ -121,6 +123,7 @@
     <td align="center">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/><br/><small>Seaborn</small>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td><b>Other</b></td>
