@@ -1,7 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Hari</h1>
-<h3 align="center">Full-Stack Developer & Data Science Enthusiast from Columbus, Ohio</h3>
+<h3 align="center">Full-Stack Developer & Data Scientist from Columbus, Ohio</h3>
 <p align="center">
-  I'm a love crafting scalable applications and diving into the world of data. <br/>Currently, I'm honing my skills through a Master's degree in Data Science and Analytics.
+  I'm a full-stack developer working on scalable law enforcement applications. <br/>
+  My work spans frontend and backend development, AI integration, data processing, and large-scale database migration.
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
